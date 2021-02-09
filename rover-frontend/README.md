@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Rover.com Front-end](#rovercom-front-end)
+  - [Overview](#overview)
+  - [TODO's](#todos)
+  - [Installing Dependencies](#installing-dependencies)
+  - [Running the App](#running-the-app)
+  - [Running Tests](#running-tests)
+  - [Building the App](#building-the-app)
+  - [Developer's Guide](#developers-guide)
+    - [Testing Hints](#testing-hints)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Rover.com Front-end
 
 ## Overview
@@ -68,3 +83,15 @@ To create a production build:
 ```
 npm run build
 ```
+
+## Developer's Guide
+
+### Testing Hints
+
+React Matchers:
+
+For my future reference, they can be found [here](https://www.robinwieruch.de/react-testing-library).
+
+React Queries:
+
+For my future reference, they can be found [here](https://testing-library.com/docs/queries/about).
