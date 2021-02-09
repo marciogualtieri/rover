@@ -92,10 +92,5 @@ npm run build
 
 ### Testing Hints
 
-React Matchers:
-
-For my future reference, they can be found [here](https://www.robinwieruch.de/react-testing-library).
-
-React Queries:
-
-For my future reference, they can be found [here](https://testing-library.com/docs/queries/about).
+- [React Matchers](https://www.robinwieruch.de/react-testing-library).
+- [React Queries](https://testing-library.com/docs/queries/about).
