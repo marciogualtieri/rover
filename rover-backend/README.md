@@ -20,7 +20,7 @@
 
 ## Overview
 
-The requirements are described in more detail in the [requirements](../specification/README.md).
+The requirements are described in more detail [here](../specification/README.md).
 
 We have developed a MVP based on the circumstances in the requirements and time constrains (about 3 days for development).
 

@@ -2,9 +2,9 @@
 
 ## Overview
 
-The requirements are described in more detail in the [requirements](../specification/README.md).
+The requirements are described in more detail [here](../specification/README.md).
 
-For more details regarding the backend-end refer to [rover-backend](../rover-backend)
+For more details regarding the back-end refer to [rover-backend](../rover-backend)
 
 Giving the specification and the time constraints, the front-end currently supports the following use cases:
 
