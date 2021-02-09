@@ -10,8 +10,8 @@
   - [Running the App](#running-the-app)
   - [Recovering the Data](#recovering-the-data)
   - [Developer's Guide](#developers-guide)
-    - [Migrations](#migrations)
-    - [Generate Model Diagrams](#generate-model-diagrams)
+    - [Resetting Migrations](#resetting-migrations)
+    - [Generating Model Diagrams](#generating-model-diagrams)
   - [Creating a Super User](#creating-a-super-user)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -281,7 +281,7 @@ This way you don't need to go through the data recovery all over again to set yo
 
 ## Developer's Guide
 
-### Migrations
+### Resetting Migrations
 
 If you changed your models and you wish to start from scratch:
 
@@ -299,7 +299,7 @@ DJANGO_SETTINGS_MODULE=tests.settings ./manage.py makemigrations
 
 You don't need a running development database to update the migrations.
 
-### Generate Model Diagrams
+### Generating Model Diagrams
 
 You will need to install graphviz on you OS. Here's how to install it on Ubuntu:
 

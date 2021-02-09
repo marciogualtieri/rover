@@ -30,7 +30,9 @@ Giving the specification and the time constraints, the front-end currently suppo
 3.  User finally logs-in.
 4.  User list rankings.
 
+<kbd>
 ![Account Recovery Use Case](./images/user-recovers-account.gif)
+</kbd>
 
 - Account Registration:
 
@@ -38,7 +40,9 @@ Giving the specification and the time constraints, the front-end currently suppo
 2.  User logs-in.
 3.  User list rankings.
 
+<kbd>
 ![Account Registration Use Case](./images/user-registers.gif)
+</kbd>
 
 Note that for the purposes of this demonstration, the back-end hasn't been configured with a real email server (we are using Django's console email back-end).
 
