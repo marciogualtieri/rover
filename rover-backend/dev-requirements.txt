@@ -1,0 +1,6 @@
+jupyter==1.0.0
+pygraphviz==1.7
+pyparsing==2.4.7
+pydot==1.4.1
+pytest-django==4.1.0
+

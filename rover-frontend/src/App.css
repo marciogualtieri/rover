@@ -1,0 +1,9 @@
+.container-login {
+  width: 300px;
+  height: 300px;
+}
+
+.table-striped > tbody > tr:nth-child(2n + 1) > td,
+.table-striped > tbody > tr:nth-child(2n + 1) > th {
+  background-color: #daecff;
+}

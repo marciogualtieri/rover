@@ -1,0 +1,106 @@
+[
+  {
+    "model": "users.customuser",
+    "pk": 1,
+    "fields": {
+      "password": "5e819a7efacb661213e7f6abaa4b9057",
+      "is_superuser": false,
+      "is_staff": false,
+      "is_active": true,
+      "name": "Forrest MacNeil",
+      "phone": "+15817557107",
+      "image": "https://photos.app.goo.gl/MrAMNXJgkxLtiDit8",
+      "email": "forrest.macneil@review.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 2,
+    "fields": {
+      "password": "a247b9fddf4d97d89a05613a1c0063e5",
+      "is_superuser": false,
+      "is_staff": false,
+      "is_active": true,
+      "name": "Nancy L.",
+      "phone": "+11826582052",
+      "image": "https://images.dog.ceo/breeds/shihtzu/n02086240_1215.jpg",
+      "email": "nancy.l@gmail.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 3,
+    "fields": {
+      "password": "5e819a7efacb661213e7f6abaa4b9057",
+      "is_superuser": false,
+      "is_staff": false,
+      "is_active": true,
+      "name": "Shelli K.",
+      "phone": "+15817557107",
+      "image": "https://images.dog.ceo/breeds/hound-ibizan/n02091244_327.jpg",
+      "email": "shelli.k@gmail.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 4,
+    "fields": {
+      "password": "db0e38b8f9b4d2cc04306321d26f52ad",
+      "is_superuser": false,
+      "is_staff": false,
+      "is_active": true,
+      "name": "Mel P.",
+      "phone": "+15191086391",
+      "image": "https://images.dog.ceo/breeds/boxer/n02108089_1748.jpg",
+      "email": "mel.p@gmail.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.customuser",
+    "pk": 5,
+    "fields": {
+      "password": "976bae1d5e3cd70ab297761a9bf4df77",
+      "is_superuser": false,
+      "is_staff": false,
+      "is_active": true,
+      "name": "Jim S.",
+      "phone": "+19715860916",
+      "image": "https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_4090.jpg",
+      "email": "jim.s@gmail.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "reviews.score",
+    "pk": 3,
+    "fields": {
+      "overall": 2.418269230769231,
+      "ratings": 2.5714285714285716
+    }
+  },
+  {
+    "model": "reviews.score",
+    "pk": 4,
+    "fields": {
+      "overall": 3.5,
+      "ratings": 3.5
+    }
+  },
+  {
+    "model": "reviews.score",
+    "pk": 5,
+    "fields": {
+      "overall": 2.430769230769231,
+      "ratings": 2.75
+    }
+  }
+]
