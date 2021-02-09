@@ -20,9 +20,7 @@
 
 ## Overview
 
-The requirements are described in more detail [here](../specification/README.md).
-
-We have developed a MVP based on the circumstances in the requirements and time constrains (about 3 days for development).
+The requirements are described in more detail [here](../specification/README.md). We have developed a MVP based on the circumstances in the requirements and time constrains (about 3 days for development).
 
 Specifically, thinking about the existent users, we should support the following test case:
 
